@@ -4,6 +4,7 @@
 Solve the following challenges with your workshop buddy (pair programming).
 
 Cheatsheet for [Mac & Linux Users](https://www.slideshare.net/paalringstad/command-cheatsheets-mac)
+
 Cheatsheet for [Windows Users](https://www.slideshare.net/paalringstad/command-cheatsheets-windows-138186563)
 
 
@@ -62,7 +63,7 @@ students = ["Draco", "Harry", "Hermione"]
 
 Print out all names of this array using "each". 
 
-__
+---
 
 **Challenge 7**
 
