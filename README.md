@@ -3,7 +3,7 @@
 
 Solve the following challenges with your workshop buddy (pair programming).
 
-Here are the [Slides with Examples](tiny.cc/gd5tkz) | tiny.cc/gd5tkz
+Here are the [Slides with Examples](tiny.cc/gd5tkz) | https://bit.ly/2PMM5OF
 
 Cheatsheet for [Mac & Linux Users](https://www.slideshare.net/paalringstad/command-cheatsheets-mac)
 
