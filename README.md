@@ -31,45 +31,54 @@ If you'd like to learn more with Ruby check out the following:
 
 ---
 
-**Challenge 1**
-
-Create a variable.
-Assign your variable to an array full of animals. Have at least 4 animals in your array. 
-Print each animal out in your console using "each".
+### Section 1 | Data Types & Variables
 
 ---
 
-**Challenge 2**
+**Challenge 1 - Integers**
+
+
+Create a new variable. Assign it to an integer. 
+Create another variable. Assign it to another integer. 
+Print out the results of the following: 
+1. Add the two variables together
+2. Subtract one variable from the other
+3. Multiply the two variables together
+4. Divide one variable from the other
+
+
+**Challenge 2 - Strings & Concatenation**
+
+
+Create a new variable. Assign it a string value. 
+Create another variable. Assign it to another string value. 
+Concatenate (add) the two strings together. Should there be a space between the two strings? If so, add in the space as well.
+
+
+**Challenge 3 - Strings & Interpolation**
+
+
+Create a new variable called `name` which is assigned to your own name.  
+Print out a string that says `Hello, your_name - welcome to coding!` . Replace `your_name` with the variable `name` via interpolation (i.e. `#{variable_placed_here}`).
+
+
+**Challenge 4 - Arrays**
+
+
+Create a new variable.
+Assign your variable to an array full of animals. Have at least 4 animals in your array. 
+Add another item into your array. Use the `<<` syntax. 
+Add another item into your array. Use the `+` syntax.
+
+---
+
+**Challenge 5 - While Loops**
 
 Print out 5 times "You can enter the club!" using a while loop.
 
 ---
 
-**Challenge 3**
-
-students = ["Draco", "Harry", "Hermione", "Luna"]
-
-Print out the first student of this array.
-
----
-
-**Challenge 4**
-
-students = ["Draco", "Harry", "Hermione", "Luna"]
-
-Print out the first letter of the first element of this array. 
-
----
-
-**Challenge 5**
-
-students = ["Draco", "Harry", "Hermione", "Luna"]
-
-Print out the second element of the array, but only after having checked if it starts with an "H". Use an if statement.
-
----
-
-**Challenge 6**
+**Challenge 6 - Each Iterators**
 
 students = ["Draco", "Harry", "Hermione"]
 
@@ -77,7 +86,31 @@ Print out all names of this array using "each".
 
 ---
 
-**Challenge 7**
+**Challenge 7 - Arrays & Indices**
+
+students = ["Draco", "Harry", "Hermione", "Luna"]
+
+Print out the first student of this array.
+
+---
+
+**Challenge 8 - Arrays & Indices**
+
+students = ["Draco", "Harry", "Hermione", "Luna"]
+
+Print out the first letter of the first element of this array. 
+
+---
+
+**Challenge 9 - Arrays & Conditionals**
+
+students = ["Draco", "Harry", "Hermione", "Luna"]
+
+Print out the second element of the array, but only after having checked if it starts with an "H". Use an if statement.
+
+---
+
+**Challenge 10 - Arrays & Combinations**
 
 students = ["Draco", "Harry", "Hermione", "Luna"]
 
@@ -85,7 +118,7 @@ Time to combine everything you learned! Print out all names that start with an "
 
 ---
 
-**Challenge 8**
+**Challenge 11 - Methods**
 
 students = ["Draco", "Harry", "Hermione", "Luna"]
 
@@ -94,7 +127,7 @@ The method must take two parameters: 1) An array of students 2) A letter
 
 ---
 
-**Challenge 9**
+**Challenge 12 - Methods**
 
 Create a method called "dating_app" that takes 2 or more aguments (hobbies, age, IQ, sense of humor, etc.). This method should let you know whether the person is a good match for you. 😉
 
