@@ -20,6 +20,14 @@ If you have downloaded a text editor like [Sublime](http://www.sublimetext.com/3
 1. Create a new file <example_name.rb>
 2. Run your ruby file from your terminal with "ruby <example_name.rb>"
 
+---
+
+If you'd like to learn more with Ruby check out the following: 
+
+1. https://www.codecademy.com/learn/learn-ruby
+2. https://www.learnrubyonline.org/
+3. Ruby Docs: https://ruby-doc.org/
+
 
 ---
 
